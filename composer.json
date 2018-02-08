@@ -1,0 +1,5 @@
+{
+    "name": "thudfactor/field_headline_group",
+    "type": "drupal-module",
+    "description" : "A field for headlines that includes superhead and subhead text."
+}
